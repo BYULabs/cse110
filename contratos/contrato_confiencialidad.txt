@@ -1,0 +1,43 @@
+CONTRATO DE CONFIDENCIALIDAD, PROPIEDAD INTELECTUAL Y NO SOLICITACIÓN 
+Entre KICKERSOFT S.A.S. (“La Empresa”) y ITURRALDE PÉREZ SEBASTIAN ANDRES (“El/La Trabajador/a”). 
+1. Definiciones 
+1.1. Información Confidencial. Toda información, en cualquier soporte (oral, escrito, digital o por acceso a sistemas), a la que el/la Trabajador/a acceda por su relación con La Empresa, incluyendo sin limitar: código fuente/objeto, arquitecturas, documentación técnica, credenciales y llaves, roadmaps, presupuestos y condiciones comerciales, bases de datos, datos personales de clientes/usuarios, know-how, diseños, modelos, algoritmos, así como la información de clientes y terceros que La Empresa deba proteger. 
+1.2. Excepciones. No será confidencial la información que: (a) sea o devenga de dominio público sin incumplimiento; (b) conste como conocida legítimamente antes; (c) se reciba de tercero con derecho a revelarla; (d) sea desarrollada de forma independiente y demostrable; (e) deba revelarse por mandato legal o autoridad competente, notificando previamente a La Empresa cuando sea legalmente posible. 
+1.3. Secreto Empresarial. Información no divulgada, con valor comercial por ser secreta, respecto de la cual se han adoptado medidas razonables para mantenerla en reserva. (Siguiendo el Régimen andino sobre secretos empresariales). 
+2. Obligaciones sobre la Información Confidencial 
+2.1. No divulgación y uso limitado. El/La Trabajador/a no divulgará ni usará la Información Confidencial salvo para fines de su trabajo para La Empresa. 
+2.2. Medidas de seguridad. Uso exclusivo de cuentas corporativas, autenticación multifactor, almacenamiento en repositorios autorizados, prohibición de transferir o alojar información en cuentas/servicios personales, cifrado de discos si aplica, bloqueo de pantalla, y notificación inmediata (dentro de 24 h) ante pérdida de dispositivos, accesos no autorizados o incidentes. (LOPDP: medidas “adecuadas y necesarias”). 
+2.3. Referencias profesionales. El/La Trabajador/a podrá mencionar que trabajó en KICKERSOFT y describir de forma genérica sus funciones (“p. ej., desarrollo front-end con Vue.js”), sin identificar clientes, repositorios, ni detalles técnicos/comerciales confidenciales. 
+3. Propiedad intelectual y materiales 
+3.1. Titularidad. Todo lo creado o desarrollado por el/la Trabajador/a en ejecución de su relación laboral con La Empresa (software, código, documentación, diseños, modelos, bases de datos, configuraciones, entregables y trabajos derivados) pertenece a La Empresa en cuanto a derechos patrimoniales, sin perjuicio de los derechos morales del autor que reconoce la ley. 
+3.2. Cesión y cooperación. El/La Trabajador/a cede, a favor de La Empresa, con carácter global y por el máximo legal, los derechos patrimoniales sobre las obras y desarrollos indicados. Se obliga a firmar documentos adicionales razonablemente necesarios. 
+3.3. Herramientas previas. Si el/la Trabajador/a incorpora materiales preexistentes de su autoría, deberá declararlos por escrito antes de su uso; su integración quedará sujeta a una licencia no exclusiva, mundial, gratuita, para su explotación por La Empresa en los proyectos correspondientes. 
+3.4. Software libre y terceros. El/La Trabajador/a cumplirá las licencias FOSS y no integrará componentes que restrinjan la explotación comercial sin aprobación expresa. 
+4. Devolución y borrado al terminar 
+En un plazo de 3 días hábiles desde el fin de la relación, el/la Trabajador/a: (a) devolverá todo material, credenciales y equipos; (b) eliminará copias en dispositivos personales; (c) entregará certificación de borrado y facilitará verificación razonable. 
+5. No solicitación limitada 
+Durante 12 meses tras la terminación, el/la Trabajador/a se abstendrá de solicitar activamente (contacto directo para captar) a: (i) clientes o prospectos con los que interactuó personalmente en los 12 meses anteriores; y (ii) empleados/contratistas de La Empresa con los que trabajó en ese periodo, excluyendo publicaciones abiertas no dirigidas y solicitudes espontáneas del cliente/empleado. 
+6. Vigencia 
+6.1. Obligaciones de confidencialidad: mientras la información mantenga carácter de secreto; para información técnica no secreta: 5 años; para información comercial/estratégica no secreta: 3 años. 
+7. Incumplimiento y remedios 
+7.1. Régimen disciplinario laboral. Sin perjuicio de lo civil/penal, La Empresa podrá aplicar medidas disciplinarias de ley y reglamento interno. Cualquier multa laboral respetará el tope del 10% de la remuneración mensual cuando fuere procedente. UNHCR 
+7.2. Daños y medidas cautelares. La Empresa podrá exigir daños y perjuicios (daño emergente, lucro cesante) y medidas de cese/no innovar.
+
+7.3. Reversibilidad. Si una autoridad ordena divulgar información, el/la Trabajador/a deberá, cuando sea posible, notificar previamente a La Empresa para que esta gestione la protección (p. ej., sellado, confidencialidad en proceso). 
+8. Datos personales 
+El/La Trabajador/a tratará los datos personales únicamente bajo instrucciones de La Empresa y conforme a la LOPDP, guardando confidencialidad y aplicando medidas de seguridad; notificará sin dilación incidentes que comprometan datos personales. 
+9. Firma electrónica y comunicaciones 
+Las partes aceptan firmas electrónicas y el intercambio de mensajes de datos como válidos y exigibles conforme a la ley ecuatoriana. 
+10. Ley y jurisdicción 
+Se rige por las leyes de Ecuador y los tribunales competentes del domicilio de La Empresa.
+
+EL CONTRATANTE 
+KICKERSOFT SAS representada por AURELIEN ANTONIO 
+Cédula : 0958427205
+EL PROFESIONAL 
+ITURRALDE PÉREZ SEBASTIAN 
+ANDRES 
+Cédula : 1001966165
+
+
+

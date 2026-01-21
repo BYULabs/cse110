@@ -1,0 +1,147 @@
+CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES
+Entre:
+
+1) GREENSELLER S.A.S, con domicilio en [dirección], representada por [nombre del representante], con Cédula [________], en adelante “EL CONTRATANTE” o "Green Seller"; y
+
+2) [Nombre del Contratista / Programador], con domicilio en [dirección], con Cédula [________], en adelante “EL CONTRATISTA”.
+
+Preámbulo
+Las partes acuerdan desarrollar la aplicación objeto de este contrato ("la Aplicación") conforme a los términos aquí establecidos y a los anexos que formen parte del mismo. Ambas partes formalizan los términos de prestación de los servicios técnicos que serán prestados por EL CONTRATISTA, con inicio al firmarse este contrato.
+
+1. Objeto
+EL CONTRATISTA prestará servicios profesionales de desarrollo, entrega y puesta en producción de la Aplicación descrita en este contrato y en sus anexos, así como actividades relacionadas de documentación, pruebas y capacitación razonablemente necesarias para cumplir los entregables.
+
+2. Plazo
+El presente contrato tendrá una duración inicial de seis (6) meses contados a partir de la firma ("Plazo Inicial"). El contrato podrá ser renovado por periodos adicionales mediante acuerdo escrito entre las partes para cubrir prestación de servicios de mantenimiento y soporte.
+
+3. Alcance y entregables
+3.1. El alcance concreto se ajustará a lo establecido en los anexos de este contrato y a los entregables que ambas partes definan por escrito (entregables, especificaciones y criterios de aceptación).
+3.2. EL CONTRATISTA entregará versiones, documentación técnica y despliegues según el cronograma acordado y mantendrá comunicación periódica sobre avances.
+
+4. Honorarios y presupuesto estimado
+4.1. Tarifa horaria: USD 20.00 (veinte dólares estadounidenses) por hora.
+4.2. Estimación de coste: Las partes acuerdan que, sobre la base de la tarifa y el alcance estimado, el costo aproximado del proyecto para el Plazo Inicial de seis meses es de USD 6,000 (seis mil dólares), siendo dicha cifra una estimación sujeta a las horas efectivas trabajadas.
+4.3. Registro de horas: EL CONTRATISTA llevará un registro veraz y detallado de todas las horas trabajadas (timesheet) y lo adjuntará a cada factura mensual. EL CONTRATANTE tendrá derecho a solicitar comprobantes razonables de las horas registradas.
+
+5. Facturación y forma de pago
+5.1. Facturación: EL CONTRATISTA emitirá factura mensual por los servicios prestados durante los treinta (30) días naturales previos a la fecha de factura.
+5.2. Plazo de pago: EL CONTRATANTE deberá efectuar el pago dentro de los siete (7) días hábiles siguientes a la recepción de la factura (es decir, pago a 7 días desde la entrega de la factura mensual).
+5.3. Moneda y método: Los pagos se efectuarán en USD mediante transferencia bancaria a la cuenta indicada en la factura, salvo acuerdo distinto por escrito.
+5.4. Retrasos: En caso de demora en el pago, EL CONTRATANTE incurrirá en un interés moratorio del 1.5% mensual sobre el saldo vencido o el máximo permitido por la ley aplicable, lo que sea menor.
+
+6. Gastos y materiales
+Salvo pacto expreso, cualquier gasto adicional (servicios de terceros, licencias de software, hosting con coste) será informado con antelación y se facturará aparte, previa aprobación por escrito del Contratante.
+
+7. Propiedad intelectual
+7.1. Titularidad: Salvo pacto en contrario, todos los derechos patrimoniales sobre el código fuente, documentación, diseños, bases de datos y demás entregables desarrollados específicamente para EL CONTRATANTE serán cedidos a EL CONTRATANTE una vez abonadas en su totalidad las cantidades debidas por dichos entregables.
+7.2. Licencias previas: Si EL CONTRATISTA incorpora materiales preexistentes de su autoría, deberá identificarlos por escrito y conceder a EL CONTRATANTE una licencia no exclusiva, perpetua y transferible para su explotación en relación con la Aplicación.
+
+8. Confidencialidad
+8.1. Ambas partes se obligan a mantener la confidencialidad de la información de la otra parte a la que tengan acceso por razón de este contrato, incluyendo código, documentación, datos de clientes y condiciones comerciales.
+8.2. Esta obligación de confidencialidad se aplicará durante la vigencia del contrato y por un periodo posterior de cinco (5) años, salvo que la información tenga carácter permanente de secreto comercial, en cuyo caso la obligación se mantendrá mientras subsista esa condición.
+
+9. Protección de datos
+Si en el marco del contrato se accede o se tratan datos personales, las partes cumplirán con la normativa de protección de datos aplicable y adoptarán medidas técnicas y organizativas razonables para proteger dichos datos.
+
+10. Relación de las partes
+EL CONTRATISTA actuará como contratista independiente. Nada de lo establecido creará relación laboral, agencia, sociedad o joint venture entre las partes.
+
+11. Garantías y aceptación
+EL CONTRATISTA garantiza que los entregables estarán libres de defectos materiales que impidan su uso conforme a las especificaciones por un periodo de treinta (30) días tras su aceptación; dichas correcciones serán realizadas sin coste adicional si derivan de incumplimiento de las especificaciones acordadas.
+
+12. Mantenimiento y renovación
+Al concluir el Plazo Inicial, las partes podrán acordar por escrito un servicio de mantenimiento y soporte con condiciones y tarifas que serán negociadas separadamente. En ausencia de acuerdo, EL CONTRATISTA podrá ofrecer soporte por horas a la tarifa establecida o la tarifa que se acuerde para mantenimiento.
+
+13. Terminación
+13.1. Terminación por incumplimiento: Cualquiera de las partes podrá resolver el contrato por incumplimiento material de la otra parte, si no se subsana en un plazo de quince (15) días tras notificación escrita.
+13.2. Terminación por conveniencia: Cualquiera de las partes podrá dar por terminado el contrato mediante aviso escrito con treinta (30) días de antelación. En caso de terminación, EL CONTRATANTE pagará por los servicios prestados y gastos incurridos hasta la fecha efectiva de terminación.
+
+14. Efectos de la terminación
+Tras la terminación, EL CONTRATISTA entregará todo el material, código y documentación relativos al proyecto y suministrará la información necesaria para la continuidad del servicio. EL CONTRATANTE abonará las facturas pendientes por servicios efectivamente prestados.
+
+15. Limitación de responsabilidad e indemnidad
+15.1. Limitación: Salvo por dolo o negligencia grave, la responsabilidad total de EL CONTRATISTA frente a EL CONTRATANTE por cualquier reclamación relacionada con este contrato se limitará a las cantidades pagadas por EL CONTRATANTE a EL CONTRATISTA durante los seis (6) meses inmediatamente anteriores a la reclamación.
+15.2. Indemnidad: Cada parte indemnizará y mantendrá indemne a la otra frente a reclamaciones de terceros derivadas de su incumplimiento legal, tributario o por uso indebido de materiales de terceros integrados sin la autorización correspondiente.
+
+16. Fuerza mayor
+Ninguna de las partes será responsable por incumplimientos derivados de causas fuera de su control razonable (fuerza mayor). La parte afectada deberá notificar a la otra de inmediato y hacer esfuerzos razonables para mitigar el impacto.
+
+17. Notificaciones
+Las notificaciones se efectuarán por escrito a las direcciones indicadas en el encabezado o por correo electrónico a las direcciones que las partes acuerden.
+
+18. Ley aplicable y jurisdicción
+Este contrato se regirá por las leyes de Ecuador. Para la resolución de controversias, las partes se someten a la jurisdicción de los tribunales competentes del lugar de domicilio de EL CONTRATANTE, salvo que acuerden someter la controversia a arbitraje.
+
+19. Miscelánea
+19.1. Cesión: EL CONTRATISTA no podrá ceder sus obligaciones sin consentimiento previo por escrito de EL CONTRATANTE.
+19.2. Modificaciones: Cualquier modificación deberá constar por escrito y firmada por ambas partes.
+19.3. Acuerdo completo: Este documento contiene el acuerdo completo entre las partes en relación con su objeto.
+
+20. Firmas
+
+En prueba de conformidad, las partes firman el presente contrato en la fecha indicada a continuación.
+
+EL CONTRATANTE
+
+Nombre: ____________________________
+Representante: ______________________
+Firma: _____________________________
+Fecha: _____________________________
+
+EL CONTRATISTA
+
+Nombre: ____________________________
+Firma: _____________________________
+Fecha: _____________________________
+
+Anexo A – Resumen financiero y mecanismo de control de horas
+- Tarifa: USD 20.00/hora
+- Estimación total (6 meses): USD 6,000 (estimación sujeta a horas reales trabajadas)
+- Facturación: mensual por las horas del mes anterior (30 días)
+- Pago: dentro de 7 días hábiles desde la recepción de la factura
+- Registro: EL CONTRATISTA entregará con la factura un reporte de horas (timesheet) y breve resumen de actividades.
+
+Anexo B – Entregables, cronograma y criterios de aceptación
+Los entregables principales del proyecto, su cronograma estimado y los criterios de aceptación son los siguientes. Las fechas exactas y el detalle final de cada entregable se acordarán en el cronograma firmado por ambas partes.
+
+1) Análisis técnico (Semana 1 – Semana 3)
+- Entregable: Informe de requerimientos funcionales y técnicos; especificación de datos; diseño de conexión a la API WeatherLink; plan de pruebas.
+- Criterio de aceptación: Documento aprobado por EL CONTRATANTE que confirme los requisitos y la conexión prevista con la API; lista de casos de prueba aprobada.
+
+2) Diseño y prototipo UI/UX (Semana 4 – Semana 7)
+- Entregable: Prototipos de interfaz (wireframes y mockups navegables) y especificaciones de experiencia de usuario para las vistas principales.
+- Criterio de aceptación: Aprobación por escrito del prototipo o conformidad expresada por EL CONTRATANTE tras revisiones (máximo 2 rondas de ajuste incluidas).
+
+3) Desarrollo Backend e integraciones (Semana 8 – Semana 13)
+- Entregable: Módulos backend para ingestión y procesamiento de datos (conexión a WeatherLink), modelos de análisis y endpoints API necesarios para la Aplicación.
+- Criterio de aceptación: Endpoints documentados y pruebas de integración exitosas (conjunto de pruebas automatizadas ejecutadas sin fallos críticos y validación de datos con muestras reales o simuladas).
+
+4) Desarrollo Frontend y visualización (Semana 14 – Semana 19)
+- Entregable: Interfaces funcionales para visualización de datos, dashboards con gráficos, pantallas de configuración por variedad de rosa y paneles de informes.
+- Criterio de aceptación: UI funcional desplegada en entorno de prueba, validación de usabilidad por EL CONTRATANTE y cumplimiento de performance (respuesta promedio <2s en consultas comunes).
+
+5) Integración, pruebas e integración continua (Semana 20 – Semana 22)
+- Entregable: Entorno de staging con CI/CD configurado, suite de pruebas (unitarias e integración) y resultados de pruebas documentados.
+- Criterio de aceptación: Pasaje de pruebas críticas y corrección de defectos severos detectados en staging.
+
+6) Entrega del MVP, documentación y capacitación (Semana 23)
+- Entregable: Versión MVP desplegada en entorno de producción (o ambiente acordado), documentación técnica y manual de usuario, sesión de capacitación al personal designado por EL CONTRATANTE.
+- Criterio de aceptación: Firma de conformidad del MVP por parte del Contratante tras demostración funcional y entrega de documentación.
+
+7) Soporte inicial y ajustes post-entrega (30 días posteriores a entrega)
+- Entregable: Correcciones de errores detectados en el periodo de garantía (30 días) y ajustes menores acordados.
+- Criterio de aceptación: Correcciones implementadas y verificación por parte de EL CONTRATANTE.
+
+Notas sobre entregables y aceptación
+- Los entregables podrán desglosarse en hitos intermedios adicionales según necesidades y se documentarán en el cronograma técnico.
+- Cualquier cambio de alcance que implique horas adicionales será presupuestado y aprobado por escrito antes de su ejecución.
+- EL CONTRATISTA entregará con cada factura un reporte de horas y un breve resumen de actividades relacionadas con los entregables facturados.
+
+Desglose estimado del presupuesto por etapa (referencial)
+- Análisis y planificación: USD 800
+- Diseño UI/UX: USD 1,000
+- Desarrollo backend y API: USD 2,000
+- Desarrollo frontend: USD 1,400
+- Pruebas e integración final: USD 600
+- Documentación y capacitación: USD 200
+

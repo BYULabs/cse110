@@ -1,0 +1,68 @@
+En la ciudad de Portoviejo, a los 04 días del mes de Septiembre de 2025, se celebra el presente Contrato de Prestación de Servicios Profesionales entre las siguientes partes: 
+1. Kickersoft S.A.S., sociedad legalmente constituida en Ecuador, representada por su Gerente General Antonio Aurélien Quentin Virgil, con cédula de identidad N° 0958427205, en adelante denominada “Kickersoft”. 
+2. ITURRALDE PEREZ SEBASTIAN ANDRES, con cédula de identidad N° 1001966165001, en adelante denominado “El Programador”. 
+Ambas partes acuerdan lo siguiente: 
+1. Objeto del contrato 
+Kickersoft contrata los servicios profesionales de desarrollo y soporte en programación PHP y frontend en entorno WordPress, con la finalidad de: 
+● Integrar servicios web y funcionalidades nuevas en sistemas existentes. ● Realizar correcciones de errores en el código actual. 
+● Participar en el desarrollo de los proyectos asignados. 
+● Cumplir con las actividades descritas en el Anexo 1. 
+2. Naturaleza de la relación 
+El Programador actuará como contratista independiente. 
+Este contrato no constituye relación laboral, ni genera derechos de trabajador bajo el Código del Trabajo, ni afiliación obligatoria al IESS. 
+3. Plazo de duración 
+La vigencia de este contrato será de dos (2) meses, iniciando el 04 de Septiembre de 2025 y finalizando el 03 de Noviembre de 2025. 
+Al término del plazo, el contrato se dará por concluido de pleno derecho, salvo acuerdo expreso de renovación entre las partes.
+4. Remuneración 
+Kickersoft pagará al Programador la suma de 600 USD (seiscientos dólares americanos) mensuales, contra factura, durante la vigencia del contrato. El IVA no está incluido en la remuneración mensual y será facturado adicionalmente según régimen tributario del Programador. 
+El pago se realizará mediante transferencia bancaria dentro de los primeros cinco (5) días hábiles del mes siguiente. 
+5. Modalidad de prestación 
+● La dedicación estimada será de hasta 40 horas semanales, organizadas libremente por el Programador, salvo coordinaciones puntuales con Kickersoft. 
+● El Programador deberá registrar sus horas trabajadas en la plataforma insightful.io y presentar reportes semanales de avances. 
+● Lo esencial del contrato será el cumplimiento de los entregables pactados en los proyectos asignados. 
+6. Confidencialidad 
+El Programador se obliga a guardar estricta confidencialidad sobre toda la información a la que tenga acceso de Kickersoft y de sus clientes, durante el contrato y de manera indefinida posterior a su terminación. 
+7. Propiedad intelectual 
+Todo desarrollo, código, documentación, mejoras o adaptaciones realizadas por el Programador en el marco de este contrato será propiedad exclusiva de Kickersoft o de sus clientes, según corresponda. 
+El Programador no podrá reutilizar ni divulgar el código o documentación sin autorización expresa por escrito de Kickersoft.
+8. Terminación anticipada 
+Cualquiera de las partes podrá dar por terminado el presente contrato de manera anticipada, notificando con quince (15) días de antelación mediante comunicación escrita o electrónica. 
+En tal caso, Kickersoft pagará al Programador el valor proporcional de los servicios efectivamente prestados hasta la fecha de terminación. 
+9. Devolución de información 
+Al finalizar el contrato, El Programador deberá entregar a Kickersoft todo el código, documentación, archivos y demás información relacionada con los proyectos encomendados. 
+10. Modificaciones 
+Cualquier modificación al presente contrato deberá constar por escrito y estar firmada por ambas partes. 
+11. Legislación aplicable 
+El presente contrato se rige por el Código Civil del Ecuador, dado que corresponde a una relación de prestación de servicios profesionales, y no constituye contrato laboral. 
+Firmas 
+EL CONTRATANTE 
+KICKERSOFT SAS representada por AURELIEN ANTONIO 
+Cédula : 0958427205
+EL PROFESIONAL 
+ITURRALDE PÉREZ SEBASTIAN 
+ANDRES 
+Cédula : 1001966165
+
+
+
+�� ANEXO 1 – Actividades y entregables
+Responsabilidades principales 
+● Desarrollar y optimizar aplicaciones (código y documentación en inglés). ● Diseñar, implementar y mantener bases de datos relacionales y no relacionales. ● Integrar APIs y servicios externos según necesidad. 
+● Optimizar seguridad y rendimiento. 
+● Mantener documentación técnica clara. 
+● Apoyar en la corrección de errores en sistemas existentes. 
+● Entregar reportes semanales de actividades y registrar horas trabajadas. 
+Proyectos asignados 
+AIRUGBY.COM 
+Contexto del proyecto : El sitio web airugby.com maneja la organización de cursos intensivos de rugby para jóvenes a nivel internacional. En este marco el trabajo para este contrato consiste en : 
+● Acordar todas las páginas públicas con un solo page builder. 
+● Seguir con el desarrollo de un plugin permitiendo principalmente, pero de manera no exhaustiva: 
+○ La creación de cursos con fechas, detalles del curso etc… 
+○ La inscripción de alumnos a través del sistema con notificación a : el administrador del sitio de internet 
+○ La asignación automática de los alumnos a la sesión de curso 
+○ Asignación manual de alumnos a coaches según sesión 
+○ Posibilidad para el Coach de hacer una evaluación del alumno 
+○ Actualización de un tablero para ver el nivel de recaudación de los pagos ○ Actualización de sistema de generación de facturas 
+○ Generación de un Archivo de Evaluación final 
+○ Connexion al API de OpenAI para análisis de comentario de parte del coach. 
+1. Web Institucional de Kickersoft: Desarrollo e implementación de la página de la empresa.

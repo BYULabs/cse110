@@ -1,0 +1,114 @@
+GESTIÓN
+VERDE DIGITAL 
+Sebastián Iturralde
+61 Fra Angélico
+Ecuador, 170904
+Fecha: 12 de Noviembre de 2025
+Compañía: Greenseller
+Contacto: Roberto Arends
+Teléfono: 098-701-8661
+Email: info@greensellerecuador.com
+Página 1
+
+Página 2
+Resumen Ejecutivo
+Desarrollo de una aplicación web para GreenSeller que automatiza el análisis de datos climáticos en invernaderos, generando predicciones precisas del día de corte de rosas mediante algoritmos personalizados para cada variedad y cliente.
+Introducción
+Propuesta para crear una aplicación web que automatice el análisis de datos agrícolas de GreenSeller, optimizando la gestión de cultivos de rosas mediante tecnología sostenible e inteligencia digital aplicada.
+Planteamiento del Problema
+GreenSeller analiza manualmente datos climáticos de invernaderos, lo que retrasa la predicción del día óptimo de corte y limita su eficiencia. Se necesita una herramienta digital que integre datos y genere resultados precisos de forma automática.
+Solución Propuesta
+Desarrollar una app web en Laravel que conecte la API de WeatherLink, procese datos en tiempo real y genere gráficos y predicciones personalizadas por variedad de rosa, optimizando la productividad y la sostenibilidad del cultivo.
+
+Fase del Proyecto
+Duración
+Análisis Técnico
+3 semanas
+Diseño y Prototipo
+4 semanas
+Hitos
+Requerimientos y conexión con API WeatherLink.
+UI/UX funcional y validada con el cliente.
+Desarrollo Backend
+6 semanas
+Módulos de análisis y generación de reportes.
+Página 3
+Metodología/Enfoque
+Desarrollo ágil centrado en eficiencia y personalización.
+Enfoque
+Descripción
+Análisis Inicial
+Revisión de datos y requisitos del cliente.
+Diseño Modular
+Arquitectura escalable y adaptable.
+Desarrollo Iterativo
+Entregas por fases con validaciones constantes.
+Cronograma y Hitos
+Plan de ejecución estructurado en fases con entregables claros.
+Integración Continua
+Pruebas y mejoras basadas en retroalimentación.
+Integración y Pruebas
+3 semanas
+Ajustes finales y validación de resultados.
+Entrega MVP
+1 semana
+Lanzamiento y capacitación de uso inicial.
+
+Página 4
+Costos y Tarifas
+El desarrollo del MVP se estima en $6,000 USD, basado en una tarifa de $20 por hora. Incluye análisis, diseño, desarrollo, pruebas e implementación de la aplicación web personalizada para GreenSeller.
+Distribución estimada de los gastos según las etapas del desarrollo.
+Beneficios y Resultados
+La aplicación permitirá a GreenSeller automatizar el análisis climático, optimizar la predicción del día de corte y ofrecer reportes personalizados por cliente. Esto mejorará la eficiencia operativa, reducirá errores y fortalecerá su liderazgo en gestión sostenible.
+Gasto
+Costo ($)
+Análisis y planificación
+800
+Diseño de interfaz (UI/UX)
+1000
+Desarrollo backend y API
+2000
+Desarrollo frontend
+1400
+Pruebas e integración final
+600
+Documentación y capacitación
+200
+
+Page 5
+Análisis de Riesgos y Mitigación
+El proyecto considera posibles riesgos técnicos y operativos, con estrategias de mitigación que aseguran estabilidad, calidad y cumplimiento en cada fase del desarrollo.
+Gestión preventiva para minimizar riesgos y mantener eficiencia.
+Evaluación y Medición
+El éxito del proyecto se medirá según la precisión de las predicciones, la estabilidad del sistema y la satisfacción de los usuarios. Se realizarán evaluaciones periódicas para optimizar el rendimiento y asegurar mejoras continuas.
+Riesgo
+Estrategia de Mitigación
+Falla en API
+Monitoreo y validación automática de conexión.
+Error de algoritmo
+Pruebas y revisión por variedad antes del uso.
+Retraso del cliente
+Limpieza y validación previa al análisis.
+Escalabilidad limitada
+Diseño modular listo para ampliaciones futuras.
+Indicador
+Métrica de Evaluación
+Exactitud de predicción
+±1 día de diferencia en fecha de corte.
+Rendimiento del sistema
+Respuesta <2 s en consultas promedio.
+Disponibilidad del app
+Uptime del 99% mensual.
+Satisfacción del cliente
+Valoración ≥ 4.5/5 en retroalimentación de uso.
+Escalabilidad técnica
+Capacidad para nuevos clientes sin degradación.
+
+Page 6
+Conclusión y Próximos Pasos
+Esta propuesta presenta una solución estratégica para automatizar el análisis de datos agrícolas y fortalecer la gestión sostenible de GreenSeller. Propongo una reunión de seguimiento para revisar detalles técnicos, ajustar requerimientos y planificar el inicio del desarrollo del MVP.
+GRACIAS
+Agradezco la oportunidad de colaborar con GreenSeller y contribuir a su misión de innovación y sostenibilidad. Espero que esta propuesta marque el inicio de una alianza productiva y de largo plazo. 🌿
+Contacto: Sebastián Iturralde
+Teléfono: +593 96-351-9183
+Email: dev@itusebastian.com
